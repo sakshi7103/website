@@ -1,0 +1,50 @@
+.navbar-brand{
+    font-size: 40px;
+}
+.nav-item{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+.d-flex button{
+    border-color: #f195b2;
+    border-width: 2px;
+}
+.d-flex button:hover{
+    color: #62c3e7;
+}
+
+.nav-item a:hover{
+    color: #f195b2;
+}
+.hero-header{
+  background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.8)),url(https://plus.unsplash.com/premium_photo-1661427159078-9d85039e99b8?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container a{
+background-color: #f195b2;
+border-color: #f195b2;
+}
+.container a:hover{
+    background-color: #62c3e7;
+    border-color: #62c3e7;
+}
+.col-md-6{
+background-color: #f195b2;
+}
+.col-md-6 a{
+    background-color: #62c3e7;
+    border-color: #62c3e7;
+    border-radius: 30px;
+}
+.col-12 p{
+    color: black;
+}
+.col-12 a{
+    text-decoration: none;
+    color: black;
+}
